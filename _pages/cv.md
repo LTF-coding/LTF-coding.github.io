@@ -38,7 +38,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
   <source src="https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116" type="video/mp4">
 </video>
 
-[Download Demo Video](https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116)
+<!-- [Download Demo Video](https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116) -->
 
 ---
 
@@ -54,7 +54,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
   <source src="https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a" type="video/mp4">
 </video>
 
-[Download Demo Video](https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a)
+<!-- [Download Demo Video](https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a) -->
 
 ---
 
