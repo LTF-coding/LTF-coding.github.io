@@ -61,7 +61,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 ### 👟 **Multi-View Video Capture for Biomechanics Analysis**
 `ViT`   `Temporal Processing`    `Triangulation`
 
-+ ✅ **Journal of Biomechanics (Top Journal of Orthopedics, Major Revision)** **EAAI (Q1, Major Revision)**
++ ✅ **EAAI (Q1, Major Revision)**, **Journal of Biomechanics (Top Journal of Orthopedics, Major Revision)** 
 + ✅ High Accuracy: achieve the requirements of clinical biomechanical analysis.It is more accurate than the motion capture systems available on the market.
 <!-- ![democap](../assets/demos/videomotioncap.gif) -->
 
