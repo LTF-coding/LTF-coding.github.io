@@ -34,11 +34,8 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 ✅ **Breakthrough**: Enabled continuous long-sequence generation via novel self-forcing paradigm
 ✅ **Optimized**: Balanced quality/speed via noise scheduling & annealing strategies
 
-<iframe width="560" height="315"  src="https://www.youtube.com/x-4q5u8g0qA" frameborder="0" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116
 
-<video id="demoVideo" controls width="100%">
-  <source src="https://www.youtube.com/x-4q5u8g0qA" type="video/mp4">
-</video>
 
 ### 🌐 **MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Estimation**
 
@@ -46,6 +43,8 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 ✅ **IEEE TMM (Q1 Under Review)**
 ✅ **Unprecedented Accuracy**: Outperformed video-based methods using single-frame input
 ✅ **Novel Framework**: First unified distribution space for anatomical/textual/visual features
+
+https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a
 
 ### ⚡ **Connection-Aware Graph Convolution Networks**
 
