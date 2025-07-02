@@ -78,6 +78,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ✅ High Accuracy: achieve the requirements of clinical biomechanical analysis.It is more accurate than the motion capture systems available on the market.
 <!-- ![democap](../assets/demos/videomotioncap.gif) -->
+
 <img src="../assets/demos/mocapdemo.gif" width="700">
 
 ---
