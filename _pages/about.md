@@ -36,6 +36,24 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116
 
+<video controls width='100%'>
+  <source src="../assets/videos/MoGenRT_480p.mp4" type="video/mp4">
+</video>
+
+<video controls width='100%'>
+  <source src="https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116" type="video/mp4">
+</video>
+
+<video controls width='100%'>
+  <source src="https://github.com/LTF-coding/LTF-coding.github.io/blob/master/assets/videos/MoGenRT_480p.mp4" type="video/mp4">
+</video>
+
+<video controls width='100%'>
+  <source src="https://LTF-coding.github.io/blob/master/assets/videos/MoGenRT_480p.mp4" type="video/mp4">
+</video>
+
+
+<iframe src="https://youtu.be/embed/x-4q5u8g0qA" frameborder="0"></iframe> 
 
 ### 🌐 **MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Estimation**
 
