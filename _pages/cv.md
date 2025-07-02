@@ -49,7 +49,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 [Download Demo Video](https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116)
 
 
-### 🌐 **MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Estimation**
+### 🌐 [**MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Estimation**](https://github.com/LTF-coding/MetaPose)
 
 `Vision-Text-Spatial Fusion`  `Cross-Modal Alignment` ` Occlusion Robustness`
 
@@ -74,7 +74,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 ![democap](../assets/demos/videomotioncap.gif)
 
 
-### ⚡ **Connection-Aware Graph Convolution Networks**
+### ⚡ [**Connection-Aware Graph Convolution Networks**](https://github.com/Visual-Pose-Lab/Connection-Aware-Graph-Pose)
 
 `GCN` `Anatomical/Kinematic Modeling`  `Multi-Level Aggregation` 
 
@@ -82,7 +82,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ✅ **40% Faster** than video-based approaches while maintaining SOTA accuracy
 
-### 🩺 Reinforce Learning Enhanced CTA for Noninvasive Prediction 
+### 🩺 [**Reinforce Learning Enhanced CTA for Noninvasive Prediction**](https://github.com/kkkkkkosf/ViT_RL) 
 `PPO` `CTA` `Medical Image Analysis`
 
 ✅ **Liver International (JCR Q1, Accept)**
