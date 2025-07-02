@@ -7,58 +7,100 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🎯 Research Focus
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+My core research agenda centers on **human-centric artificial intelligence**, with specialized expertise in:
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+🕴️ **Human Pose Estimation**:  `3D Reconstruction`  `Occlusion Handling`   `MultiModel Methods`
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+💃 **Motion Synthesis & Generation**: `Interactive`  `Text-Driven Control` `Long-Sequence Generation`
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**👟Video Motion Capture System**: `Multi-View` `High Accuracy` `Biomechanical Analysis`
+
+## ⚙️ Technical Arsenal
+
+**Meta Human:** `Stable Diffusion` `DiT` `VAE` `PPO` `Controllable`
+
+**3D Vision:**  `Mesh` `Motion Synthesis` `3D Pose Estimation` 
+
+**Multimodal:**  `Image` `Text` `Motion`
+
+**Motion Capture:**   `Multi-View` `Marker-less` `Biomechanics Analysis`​​
+
+**Optimization:** `KV Cache` `LoRA`
+
+## 🚀 Key Projects
+
+### 💃 **Self-Forcing Autoregressive Diffusion for Real-Time Text-Driven Motion Generation**
+
+`AutoRegress Diffusion`  `DiT`  `Reinforcement Learning (PPO)`  `Real-time Control`
+
+✅ **SOTA Performance**: Achieved 300+ FPS with KV Cache acceleration
+
+✅ **Breakthrough**: Enabled continuous long-sequence generation via novel self-forcing paradigm
+
+✅ **Optimized**: Balanced quality/speed via noise scheduling & annealing strategies
+
+<video controls width='100%'>
+  <source src="../assets/demos/MoGenRT_480p.mp4" type="video/mp4">
+</video>
+
+[Download Demo Video](https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116)
+
+
+### 🌐 **MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Estimation**
+
+`Vision-Text-Spatial Fusion`  `Cross-Modal Alignment` ` Occlusion Robustness`
+
+✅ **IEEE TMM (Q1 Under Review)**
+
+✅ **SOTA Accuracy**: Outperformed video-based methods using single-frame input
+
+✅ **Novel Framework**: A unified distribution space for anatomical/textual/visual features
+
+<video controls width='100%'>
+  <source src="../assets/demos/VideoDemo_480p.mp4" type="video/mp4">
+</video>
+
+[Download Demo Video](https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a)
+
+### 👟 **Multi-View Video Capture for Biomechanics Analysis**
+`ViT` `Temporal Processing`  `Triangulation`
+
+✅ **Journal of Biomechanics (Top Journal of Orthopedics, Major Revision)**
+
+✅ **High Accuracy:** achieve the requirements of clinical biomechanical analysis.It is more accurate than the motion capture systems available on the market.
+![democap](../assets/demos/videomotioncap.gif)
+
+
+### ⚡ **Connection-Aware Graph Convolution Networks**
+
+`GCN` `Anatomical/Kinematic Modeling`  `Multi-Level Aggregation` 
+
+✅ **HCIS Journal (JCR Q1, Under Review)**
+
+✅ **40% Faster** than video-based approaches while maintaining SOTA accuracy
+
+### 🩺 Reinforce Learning Enhanced CTA for Noninvasive Prediction 
+`PPO` `CTA` `Medical Image Analysis`
+
+✅ **Liver International (JCR Q1, Accept)**
+
+✅ High accuracy rate of **identifying the ROI area** of extremely severe lesions
+
+<img src="../assets/demos/ct_vis.png" width="500"/>
+
+## 🏆 Recognitions
+
++ National Encouragement Scholarship 2020-2022 (Top 10%)
++ 4 SCI Q1 Papers (First-Author, 3 Under Review Now)
++ GPA 3.5+ @ Project 985 universitiy
++ GPA Top 10% @ Project 211 university
+
+## 📜 Publications
+
++ **Accept:** Liver International (Q1)
++ **Major Revision:**  Journal of Biomechanics (Q2), EAAI (Q1)
++ **Under Review:** HCIS (Q1), TMM (Q1)
++ **Prepare to Submit:** AAAI (CCFA)
