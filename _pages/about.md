@@ -21,22 +21,20 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 💃 **Motion Synthesis & Generation**: `Interactive`  `Text-Driven Control`  `Long-Sequence Generation`
 
-**👟Video Motion Capture System**: 
+**👟Video Motion Capture System**:
 
 ---
-
-
 
 ## 🚀 Key Projects & Innovations
 
 ### 💃 **Self-Forcing Autoregressive Diffusion for Real-Time Text-Driven Motion Generation**
 
-` AutoRegress Diffusion`  `DiT`   `Reinforcement Learning (PPO)`  `Real-time Control`
+`AutoRegress Diffusion`  `DiT`   `Reinforcement Learning (PPO)`  `Real-time Control`
 ✅ **SOTA Performance**: Achieved 300+ FPS with KV Cache acceleration
 ✅ **Breakthrough**: Enabled continuous long-sequence generation via novel self-forcing paradigm
 ✅ **Optimized**: Balanced quality/speed via noise scheduling & annealing strategies
 
-`<p align='center'>`[DemoVideo](https://github.com/LTF-coding/LTF-coding.github.io/blob/master/assets/videos/MoGenRT_480p.mp4) `</p>`
+<video src="https://github.com/LTF-coding/LTF-coding.github.io/blob/master/assets/videos/MoGenRT_480p.mp4" controls width="100%"></video>
 
 ### 🌐 **MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Estimation**
 
