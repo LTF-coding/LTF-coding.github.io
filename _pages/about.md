@@ -16,7 +16,7 @@ My technical work intersects ***Machine Learning***, ***Computer Vision***, ***M
 
 I'm passionate about developing AI systems that bridge virtual and physical movement, with publications and projects addressing occlusion-robust pose analysis and synthesis. 
 
-For detailed credentials including publications, projects and demos, please visit my portfolio: [My CV](​https://ltf-coding.github.io/cv)
+For detailed credentials including publications, projects and demos, please visit my portfolio: [CV Page](​https://ltf-coding.github.io/cv)
 
 
 
