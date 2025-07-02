@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Tengfei Li/Personal Homepage"
+title                    : "Tengfei Li's Personal Homepage"
 title_separator          : "-"
 name                     : &name "tfcoder"
 description              : &description "🌐 Building the future of Human-Centric AI"
