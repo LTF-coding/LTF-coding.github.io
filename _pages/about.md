@@ -34,7 +34,11 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 ✅ **Breakthrough**: Enabled continuous long-sequence generation via novel self-forcing paradigm
 ✅ **Optimized**: Balanced quality/speed via noise scheduling & annealing strategies
 
-<video src="https://github.com/LTF-coding/LTF-coding.github.io/blob/master/assets/videos/MoGenRT_480p.mp4" controls width="100%"></video>
+<iframe width="560" height="315"  src="https://www.youtube.com/x-4q5u8g0qA" frameborder="0" allowfullscreen></iframe>
+
+<video id="demoVideo" controls width="100%">
+  <source src="https://www.youtube.com/x-4q5u8g0qA" type="video/mp4">
+</video>
 
 ### 🌐 **MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Estimation**
 
