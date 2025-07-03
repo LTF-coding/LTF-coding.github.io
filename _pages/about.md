@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- Hello👋, I'm Tengfei Li ( AKA. 李腾飞). I am a second-year Master's candidate in Artificial Intelligence at Sichuan University, building upon my undergraduate foundation in IoT Engineering at Zhengzhou University (a 211 Project institution). My research focuses on ​​**Human-Centric AI**​​, specifically advancing ​​3D Pose Understanding​​ and ​​Neural Motion Generation​​ for digital human applications.
+ Hello👋, I'm Tengfei Li ( AKA. 李腾飞). I am a second-year Master's candidate in Artificial Intelligence at Sichuan University, building upon my undergraduate foundation in IoT Engineering at Zhengzhou University (a 211 Project institution). My research focuses on ​​**Human-Centric AI**​​, specifically advancing ​​3D Pose Understanding​​ and ​​Neural Motion Generation​​ for digital human and game applications.
 
 My research intersects ***Machine Learning***, ***Computer Vision***, ***Multimodal***, ***Meta Human*** and ***Generative AI***, with active exploration of:
 
