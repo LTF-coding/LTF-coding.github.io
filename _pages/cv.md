@@ -90,7 +90,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ## 📜 Publications
 
-+ **Accept:** `Liver International (Q1)`
-+ **Major Revision:**  `EAAI (Q1)`,  `Journal of Biomechanics (Q2)`
++ **Accept:** is right around the corner 🥰
++ **Major Revision:**  `EAAI (Q1)`,  `Journal of Biomechanics (Q2)`， `Liver International (Q1)`
 + **Under Review:** `HCIS (Q1)`,  `TMM (Q1)`
 + **Prepare to Submit:** `AAAI (CCFA)`
