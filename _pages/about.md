@@ -47,10 +47,10 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + ✅ Balanced quality/speed via noise scheduling & annealing strategies
 
 <video controls width='80%'>
-  <source src="https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116" type="video/mp4">
+  <source src="../assets/demos/MoGenRT_480p.mp4" type="video/mp4">
 </video>
 
-<!-- [Download Demo Video](https://github.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116) -->
+<!-- [Download Demo Video](https://githupb.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116) -->
 
 ---
 
@@ -61,7 +61,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + ✅ Novel Framework: A unified distribution space for anatomical/textual/visual features
 
 <video controls width='80%'>
-  <source src="https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a" type="video/mp4">
+  <source src="../assets/demos/VideoDemo_480p.mp4" type="video/mp4">
 </video>
 
 <!-- [Download Demo Video](https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a) -->
