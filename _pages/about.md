@@ -46,9 +46,11 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + ✅ Enabled continuous long-sequence generation via novel self-forcing paradigm
 + ✅ Balanced quality/speed via noise scheduling & annealing strategies
 
-<video controls width='80%'>
-  <source src="../assets/demos/MoGenRT_480p.mp4" type="video/mp4">
-</video>
+<figure style="text-align: center;">
+  <video controls width="80%" src="../assets/demos/MoGenRT_480p.mp4"></video>
+  <figcaption style="font-style: italic; color: #666;">real-time video demo</figcaption>
+</figure>
+
 
 <!-- [Download Demo Video](https://githupb.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116) -->
 
@@ -60,9 +62,11 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + ✅ SOTA Accuracy: Outperformed video-based methods using single-frame input
 + ✅ Novel Framework: A unified distribution space for anatomical/textual/visual features
 
-<video controls width='80%'>
-  <source src="../assets/demos/VideoDemo_480p.mp4" type="video/mp4">
-</video>
+
+<figure style="text-align: center;">
+  <video controls width="80%" src="../assets/demos/VideoDemo_480p.mp4"></video>
+  <figcaption style="font-style: italic; color: #666;">video demo  in the wild</figcaption>
+</figure>
 
 <!-- [Download Demo Video](https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a) -->
 
@@ -73,9 +77,12 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + ✅ **EAAI (Q1, Major Revision)**
 + ✅**Journal of Biomechanics (Top Journal of Orthopedics, Major Revision)** 
 + ✅ High Accuracy: achieve the requirements of clinical biomechanical analysis.It is more accurate than the online markerless motion capture systems available on the market.
-<!-- ![democap](../assets/demos/videomotioncap.gif) -->
 
-<img src="../assets/demos/mocapdemo.gif" width="700">
+<figure style="text-align: center;">
+  <img src="../assets/demos/mocapdemo.gif" width="700">
+  <figcaption style="font-style: italic; color: #666;">inference visualization</figcaption>
+</figure>
+
 
 ---
 
@@ -90,7 +97,11 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + ✅ **Liver International (JCR Q1, Major Revision)**
 + ✅ High accuracy rate of **identifying the ROI** area of extremely severe lesions
 
-<img src="../assets/demos/ct_vis.png" width="500"/>
+<figure style="text-align: center;">
+  <img src="../assets/demos/ct_vis.png" width="500"/>
+  <figcaption style="font-style: italic; color: #666;">CAM visualization</figcaption>
+</figure>
+
 ---
 
 ## 🏆 Recognitions
