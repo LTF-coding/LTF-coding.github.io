@@ -32,9 +32,10 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ## ⚙️ Technical Arsenal
 + **Meta Human:** `Stable Diffusion` `DiT` `VAE` `PPO` `Controllable`
-+ **3D Vision:**  `Mesh` `Motion Synthesis` `3D Pose Estimation` 
++ **3D Vision:**  `Mesh` `Motion Synthesis` `3D Pose Reconstruction` 
 + **Motion Capture:**   `Multi-View` `Marker-less` `Biomechanics Analysis`​​
-+ Multimodal:  `Image` `Text` `Motion`
++ Multimodal:  `Image`  `Text` `Motion`
++ Animation:  `Blender`  `IK/FK`  `Rotation` `Ragging`
 + Optimization: `KV Cache` `LoRA` `Noise Strategy` `CFG`
 
 -------
