@@ -56,9 +56,9 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 <figure style="text-align: center;">
   <video controls width="80%" src="../assets/demos/MoGenRT_480p.mp4"></video>
   
-  <figcaption style="font-style: normal; color: #333; font-weight: bold;">real-time video demo</figcaption>
+  <figcaption style="font-style: normal; color: #333; font-weight: bold; text-align: center;">real-time video demo</figcaption>
     <br>
-    <span style="font-style: italic; color: #666; font-size: 0.8em;">
+    <span style="font-style: italic; color: #666; font-size: 0.8em; text-align: center;">
       Technical Note: This implementation is based on
       <a href="https://github.com/zkf1997/DART" target="_blank" 
          style="color: #0056b3; text-decoration: none; border-bottom: 1px dashed #0056b3;">
@@ -83,7 +83,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 <figure style="text-align: center;">
   <video controls width="80%" src="../assets/demos/VideoDemo_480p.mp4"></video>
   
-  <figcaption style="font-style: normal; color: #333; font-weight: bold;">
+  <figcaption style="font-style: normal; color: #333; font-weight: bold; text-align: center;">
   video demo  in the wild
   </figcaption>
 </figure>
@@ -102,7 +102,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 <figure style="text-align: center;">
   <img src="../assets/demos/mocapdemo.gif" width="700">
   
-  <figcaption style="font-style: normal; color: #333; font-weight: bold;">inference visualization</figcaption>
+  <figcaption style="font-style: normal; color: #333; font-weight: bold; text-align: center;">inference visualization</figcaption>
 </figure>
 
 
@@ -121,7 +121,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 <figure style="text-align: center;">
   <img src="../assets/demos/ct_vis.png" width="500"/>
-  <figcaption style="font-style: normal; color: #333; font-weight: bold;">CAM visualization</figcaption>
+  <figcaption style="font-style: normal; color: #333; font-weight: bold; text-align: center;">CAM visualization</figcaption>
 </figure>
 
 ---
