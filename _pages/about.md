@@ -47,11 +47,27 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + ✅ Enabled continuous long-sequence generation via novel self-forcing paradigm
 + ✅ Balanced quality/speed via noise scheduling & annealing strategies
 
+<!-- <figure style="text-align: center;">
+  <video controls width="80%" src="../assets/demos/MoGenRT_480p.mp4"></video>
+  
+  <figcaption style="font-style: italic; color: #666;">real-time video demo</figcaption>
+</figure> -->
+
 <figure style="text-align: center;">
   <video controls width="80%" src="../assets/demos/MoGenRT_480p.mp4"></video>
-  <figcaption style="font-style: italic; color: #666;">real-time video demo</figcaption>
+  
+  <figcaption style="font-style: normal; color: #333; font-weight: bold;">real-time video demo</figcaption>
+    <br>
+    <span style="font-style: italic; color: #666; font-size: 0.8em;">
+      Technical Note: This implementation is based on
+      <a href="https://github.com/zkf1997/DART" target="_blank" 
+         style="color: #0056b3; text-decoration: none; border-bottom: 1px dashed #0056b3;">
+        DART
+      </a>.
+      Compared to DART, our method achieves more stable results through wider receptive fields while maintaining comparable frame rates.
+    </span>
+  </figcaption>
 </figure>
-
 
 <!-- [Download Demo Video](https://githupb.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116) -->
 
@@ -66,8 +82,12 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 <figure style="text-align: center;">
   <video controls width="80%" src="../assets/demos/VideoDemo_480p.mp4"></video>
-  <figcaption style="font-style: italic; color: #666;">video demo  in the wild</figcaption>
+  
+  <figcaption style="font-style: normal; color: #333; font-weight: bold;">
+  video demo  in the wild
+  </figcaption>
 </figure>
+
 
 <!-- [Download Demo Video](https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a) -->
 
@@ -81,7 +101,8 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 <figure style="text-align: center;">
   <img src="../assets/demos/mocapdemo.gif" width="700">
-  <figcaption style="font-style: italic; color: #666;">inference visualization</figcaption>
+  
+  <figcaption style="font-style: normal; color: #333; font-weight: bold;">inference visualization</figcaption>
 </figure>
 
 
@@ -100,7 +121,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 <figure style="text-align: center;">
   <img src="../assets/demos/ct_vis.png" width="500"/>
-  <figcaption style="font-style: italic; color: #666;">CAM visualization</figcaption>
+  <figcaption style="font-style: normal; color: #333; font-weight: bold;">CAM visualization</figcaption>
 </figure>
 
 ---
