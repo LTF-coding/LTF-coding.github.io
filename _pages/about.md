@@ -80,7 +80,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
     </video>
     <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
       <div style="font-style: italic; color: #666; margin-bottom: 0px;">
-        real-time video demo
+        Real-Time Video Demo
       </div>
       <div style="text-align: left; background: #f9f9f9; padding: 12px; border-radius: 4px;">
         <strong>Technical Note:</strong> This implementation is based on
@@ -122,9 +122,9 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
       style="border: 1px solid #eee; border-radius: 4px;"
       src="../assets/demos/VideoDemo_480p.mp4">
     </video>
-    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
+    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;text-align: center;">
       <div style="font-style: italic; color: #666; margin-bottom: 0px;">
-        Video demo in the wild
+        Video Demo in the Wild
       </div>
     </figcaption>
   </figure>
@@ -153,9 +153,9 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
     style="border: 1px solid #eee; border-radius: 4px;"
     src="../assets/demos/mocapdemo.gif"
     width="700">
-    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
+    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;text-align: center;">
       <div style="font-style: italic; color: #666; margin-bottom: 0px;">
-        inference visualization
+        Inference Visualization
       </div>
     </figcaption>
   </figure>
