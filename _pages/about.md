@@ -53,10 +53,11 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
   <figcaption style="font-style: italic; color: #666;">real-time video demo</figcaption>
 </figure> -->
 
-<figure style="text-align: center;">
+<!-- <figure style="text-align: center;">
   <video controls width="80%" src="../assets/demos/MoGenRT_480p.mp4"></video>
   
-  <figcaption style="font-style: normal; color: #333; font-weight: bold; text-align: center;">real-time video demo</figcaption>
+  <figcaption style="font-style: normal; color: #333; font-weight: bold; text-align: center;">
+  real-time video demo
     <br>
     <span style="font-style: italic; color: #666; font-size: 0.8em; text-align: center;">
       Technical Note: This implementation is based on
@@ -67,7 +68,32 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
       Compared to DART, our method achieves more stable results through wider receptive fields while maintaining comparable frame rates.
     </span>
   </figcaption>
-</figure>
+</figure> -->
+
+<div style="max-width: 900px; margin: 0 auto;">
+  <figure style="text-align: center;">
+    <video 
+      controls 
+      width="100%" 
+      style="border: 1px solid #eee; border-radius: 4px;"
+      src="../assets/demos/MoGenRT_480p.mp4">
+    </video>
+    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
+      <div style="font-style: italic; color: #666; margin-bottom: 0px;">
+        real-time video demo
+      </div>
+      <div style="text-align: left; background: #f9f9f9; padding: 12px; border-radius: 4px;">
+        <strong>Technical Note:</strong> This implementation is based on
+        <a href="https://github.com/zkf1997/DART" target="_blank" 
+           style="color: #0066cc; text-decoration: none; border-bottom: 1px dashed #0066cc;">
+          DART
+        </a>. 
+        Compared to DART, our method achieves more stable results through wider 
+        receptive fields while maintaining comparable frame rates.
+      </div>
+    </figcaption>
+  </figure>
+</div>
 
 <!-- [Download Demo Video](https://githupb.com/user-attachments/assets/f8614513-d844-493e-8da8-54cf536d6116) -->
 
@@ -80,13 +106,29 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + ✅ Novel Framework: A unified distribution space for anatomical/textual/visual features
 
 
-<figure style="text-align: center;">
+<!-- <figure style="text-align: center;">
   <video controls width="80%" src="../assets/demos/VideoDemo_480p.mp4"></video>
   
   <figcaption style="font-style: normal; color: #333; font-weight: bold; text-align: center;">
   video demo  in the wild
   </figcaption>
-</figure>
+</figure> -->
+
+<div style="max-width: 900px; margin: 0 auto;">
+  <figure style="text-align: center;">
+    <video 
+      controls 
+      width="100%" 
+      style="border: 1px solid #eee; border-radius: 4px;"
+      src="../assets/demos/VideoDemo_480p.mp4">
+    </video>
+    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
+      <div style="font-style: italic; color: #666; margin-bottom: 0px;">
+        Video demo in the wild
+      </div>
+    </figcaption>
+  </figure>
+</div>
 
 
 <!-- [Download Demo Video](https://github.com/user-attachments/assets/ced85a08-e4d1-4b47-9f57-2454554d4c0a) -->
@@ -99,11 +141,25 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + ✅**Journal of Biomechanics (Top Journal of Orthopedics, Major Revision)** 
 + ✅ High Accuracy: achieve the requirements of clinical biomechanical analysis.It is more accurate than the online markerless motion capture systems available on the market.
 
-<figure style="text-align: center;">
+<!-- <figure style="text-align: center;">
   <img src="../assets/demos/mocapdemo.gif" width="700">
   
   <figcaption style="font-style: normal; color: #333; font-weight: bold; text-align: center;">inference visualization</figcaption>
-</figure>
+</figure> -->
+<div style="max-width: 900px; margin: 0 auto;">
+  <figure style="text-align: center;">
+    <img 
+    controls
+    style="border: 1px solid #eee; border-radius: 4px;"
+    src="../assets/demos/mocapdemo.gif"
+    width="700">
+    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
+      <div style="font-style: italic; color: #666; margin-bottom: 0px;">
+        inference visualization
+      </div>
+    </figcaption>
+  </figure>
+</div>
 
 
 ---
