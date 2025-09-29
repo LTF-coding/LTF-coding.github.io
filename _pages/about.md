@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
- Hello👋, I'm Tengfei Li ( AKA. 李腾飞). I am a second-year Master's candidate in Artificial Intelligence at Sichuan University, building upon my undergraduate foundation in IoT Engineering at Zhengzhou University (a 211 Project institution). My research focuses on ​​**Human-Centric AI**​​, specifically advancing ​​3D Pose Understanding​​ and Motion Generation​​ for digital human and game applications.
+ Hello👋, I'm Tengfei Li ( AKA. 李腾飞). I am a three-year Master's candidate in Artificial Intelligence at Sichuan University, building upon my undergraduate foundation in IoT Engineering at Zhengzhou University (a 211 Project institution). My research focuses on ​​**Human-Centric AI**​​, specifically advancing ​​Motion Understanding​​ and Generation​​ for digital human and game applications.
 
-My research intersects ***Machine Learning***, ***Computer Vision***, ***Multimodal***, ***Meta Human*** and ***Generative AI***, with active exploration of:
+My research intersects ***Machine Learning***, ***Computer Vision***, ***Multimodal***, ***Meta Human*** and ***AIGC***, with active exploration of:
 
 + Text-driven real-time digital human interaction frameworks
 + Cross-modal alignment with uncertainty estimation techniques for pose reconstruction
@@ -193,9 +193,9 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ## 📜 Publications
 
-+ **Accept:** is right around the corner 🥰
-+ **Major Revision:**  `EAAI (Q1)`,  `Journal of Biomechanics (Q2)`， `Liver International (Q1)`
-+ **Under Review:** `HCIS (Q1)`,  `TMM (Q1)`
-+ **Prepare to Submit:** `AAAI (CCFA)`
++ **Accept:** `Liver International (Q1)` 🥰
++ **Major Revision:**  `EAAI (Q1)`,  `Journal of Biomechanics (Q2)`， 
++ **Under Review:** `HCIS (Q1)`,  `TMM (Q1)`, `IROS`, `AAAI 26 (CCFA)`
++ **Prepare to Submit:** `CVPR 26 (CCFA)`
 
 
