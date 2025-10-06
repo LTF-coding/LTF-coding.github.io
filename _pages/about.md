@@ -163,6 +163,27 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 
 ---
+###  🤖 **Provably Safe Vision-Based Teleoperation for Dual-Arm Surgical Robots**
+`Surgical Robot` `Gesture Control` `Teleoperation`
++ ✅ **IEEE ROBIO 2025**
++ 
+
+<div style="max-width: 900px; margin: 0 auto;">
+  <figure style="text-align: center;">
+    <img 
+    controls
+    style="border: 1px solid #eee; border-radius: 4px;"
+    src="../assets/demos/86872186a770eacb92a7f859d9caad5e.mp4"
+    width="700">
+    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;text-align: center;">
+      <div style="font-style: italic; color: #666; margin-bottom: 0px;">
+        Demonstration
+      </div>
+    </figcaption>
+  </figure>
+</div>
+
+---
 
 ### ⚡ [**Connection-Aware Graph Convolution Networks**](https://github.com/Visual-Pose-Lab/Connection-Aware-Graph-Pose)
 `GCN`   `Anatomical/Kinematic Modeling`    `Multi-Level Aggregation` 
@@ -172,7 +193,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 ---
 ### 🩺 [**Reinforce Learning Enhanced CTA for Noninvasive Prediction**](https://github.com/kkkkkkosf/ViT_RL) 
 `PPO`    `CTA`    `Medical Image Analysis`
-+ ✅ **Liver International (JCR Q1, Major Revision)**
++ ✅ **Liver International (JCR Q1)**
 + ✅ High accuracy rate of **identifying the ROI** area of extremely severe lesions
 
 <figure style="text-align: center;">
@@ -193,9 +214,9 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ## 📜 Publications
 
-+ **Accept:** `Liver International (Q1)` 🥰
++ **Accept:** `Liver International (Q1)` `ROBIO 2025`🥰
 + **Major Revision:**  `EAAI (Q1)`,  `Journal of Biomechanics (Q2)`， 
-+ **Under Review:** `HCIS (Q1)`,  `TMM (Q1)`, `IROS`, `AAAI 26 (CCFA)`
-+ **Prepare to Submit:** `CVPR 26 (CCFA)`
++ **Under Review:** `HCIS (Q1)`,  `TMM (Q1)`, `AAAI 2026 (CCFA)`
++ **Prepare to Submit:** `CVPR 2026 (CCFA)`
 
 
