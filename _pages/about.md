@@ -170,11 +170,12 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 <div style="max-width: 900px; margin: 0 auto;">
   <figure style="text-align: center;">
-    <img 
-    controls
-    style="border: 1px solid #eee; border-radius: 4px;"
-    src="../assets/demos/86872186a770eacb92a7f859d9caad5e.mp4"
-    width="700">
+    <video 
+      controls 
+      width="100%" 
+      style="border: 1px solid #eee; border-radius: 4px;"
+      src="../assets/demos/86872186a770eacb92a7f859d9caad5e.mp4">
+    </video>
     <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;text-align: center;">
       <div style="font-style: italic; color: #666; margin-bottom: 0px;">
         Demonstration
