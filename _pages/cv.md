@@ -1,3 +1,4 @@
+---
 
 ## 🎯 Research Focus
 
@@ -15,7 +16,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 + **3D Vision:**  `Mesh` `Motion Synthesis` `3D Pose Reconstruction`
 + **Motion Capture:**   `Multi-View` `Marker-less` `Biomechanics Analysis`
 + Multimodal:  `Image`  `Text` `Motion`
-+ Animation:  `Blender`  `IK/FK`  `Rotation` `Ragging`
++ Animation:  `Blender`  `IK/FK`  `Rotation` `Rigging`
 + Optimization: `KV Cache` `LoRA` `Noise Strategy` `CFG`
 
 ---
@@ -73,7 +74,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ---
 
-### 🌐 [**MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Restruction**](https://github.com/LTF-coding/MetaPose)
+### 🌐 [**MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Reconstruction**](https://github.com/LTF-coding/MetaPose)
 
 `Vision-Text-Spatial Fusion`   `Cross-Modal Alignment`   `Occlusion Robustness`
 
