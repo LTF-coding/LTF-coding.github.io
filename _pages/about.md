@@ -82,15 +82,6 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
       <div style="font-style: italic; color: #666; margin-bottom: 0px;">
         Real-Time Video Demo
       </div>
-      <div style="text-align: left; background: #f9f9f9; padding: 12px; border-radius: 4px;">
-        <strong>Technical Note:</strong> This implementation is based on
-        <a href="https://github.com/zkf1997/DART" target="_blank" 
-           style="color: #0066cc; text-decoration: none; border-bottom: 1px dashed #0066cc;">
-          DART
-        </a>. 
-        Compared to DART, our method achieves more stable results through wider 
-        receptive fields while maintaining comparable frame rates.
-      </div>
     </figcaption>
   </figure>
 </div>
