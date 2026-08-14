@@ -101,7 +101,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ### 🌐 [**MetaPose: Multimodal Enhancement and Transformation Alignment 3D Pose Restruction**](https://github.com/LTF-coding/MetaPose)
 `Vision-Text-Spatial Fusion`   `Cross-Modal Alignment`   `Occlusion Robustness`
-+ ✅ **IEEE TMM (Q1 Under Review)**
++ ✅ **IEEE TMM (Q1)**
 + ✅ SOTA Accuracy: Outperformed video-based methods using single-frame input
 + ✅ Novel Framework: A unified distribution space for anatomical/textual/visual features
 
@@ -137,8 +137,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ### 👟 **Multi-View Video Capture for Biomechanics Analysis**
 `ViT`   `Temporal Processing`    `Triangulation`
-+ ✅ **EAAI (Q1, Major Revision)**
-+ ✅**Journal of Biomechanics (Top Journal of Orthopedics, Major Revision)** 
++ ✅**Journal of Biomechanics (Top Journal of Orthopedics)** 
 + ✅ High Accuracy: achieve the requirements of clinical biomechanical analysis.It is more accurate than the online markerless motion capture systems available on the market.
 
 <!-- <figure style="text-align: center;">
@@ -166,7 +165,6 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 ###  🤖 **Provably Safe Vision-Based Teleoperation for Dual-Arm Surgical Robots**
 `Surgical Robot` `Gesture Control` `Teleoperation`
 + ✅ **IEEE ROBIO 2025**
-+ 
 
 <div style="max-width: 900px; margin: 0 auto;">
   <figure style="text-align: center;">
@@ -202,22 +200,12 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
   <figcaption style="font-style: normal; color: #333; font-weight: bold; text-align: center;">CAM visualization</figcaption>
 </figure>
 
----
-
-## 🏆 Recognitions
-
-+ National Encouragement Scholarship 2020-2022 (Top 10%)
-+ 4 SCI Q1 Papers (First-Author, 3 Under Review Now)
-+ GPA 3.5+ @ Project 985 universitiy
-+ GPA Top 10% @ Project 211 university
 
 ---
 
 ## 📜 Publications
 
-+ **Accept:** `Liver International (Q1)` `ROBIO 2025`🥰
-+ **Major Revision:**  `EAAI (Q1)`,  `Journal of Biomechanics (Q2)`， 
-+ **Under Review:** `HCIS (Q1)`,  `TMM (Q1)`, `AAAI 2026 (CCFA)`
-+ **Prepare to Submit:** `CVPR 2026 (CCFA)`
++ **Accept:** `Liver International (Q1)`, `ROBIO 2025` `TMM (Q1)`, `ACM MM 2026 (CCFA)`, `Journal of Biomechanics (Q2)`🥰
++ **Prepare to Submit:** `CVPR 2027 (CCFA)`
 
 
