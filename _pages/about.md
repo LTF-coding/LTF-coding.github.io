@@ -78,7 +78,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
       style="border: 1px solid #eee; border-radius: 4px;"
       src="../assets/demos/MoGenRT_480p.mp4">
     </video>
-    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
+    <figcaption style="display: block; width: 100%; box-sizing: border-box; padding: 10px 20px; margin-top: 0; text-align: center;">
       <div style="font-style: italic; color: #666; margin-bottom: 0px;">
         Real-Time Video Demo
       </div>
@@ -113,7 +113,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
       style="border: 1px solid #eee; border-radius: 4px;"
       src="../assets/demos/VideoDemo_480p.mp4">
     </video>
-    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
+    <figcaption style="display: block; width: 100%; box-sizing: border-box; padding: 10px 20px; margin-top: 0; text-align: center;">
       <div style="font-style: italic; color: #666; margin-bottom: 0px;">
         Video Demo in the Wild
       </div>
@@ -143,7 +143,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
     style="border: 1px solid #eee; border-radius: 4px;"
     src="../assets/demos/mocapdemo.gif"
     width="700">
-    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
+    <figcaption style="display: block; width: 100%; box-sizing: border-box; padding: 10px 20px; margin-top: 0; text-align: center;">
       <div style="font-style: italic; color: #666; margin-bottom: 0px;">
         Inference Visualization
       </div>
@@ -165,7 +165,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
       style="border: 1px solid #eee; border-radius: 4px;"
       src="../assets/demos/86872186a770eacb92a7f859d9caad5e.mp4">
     </video>
-    <figcaption style="display: block; padding: 10px 20px; margin-top: 0px;">
+    <figcaption style="display: block; width: 100%; box-sizing: border-box; padding: 10px 20px; margin-top: 0; text-align: center;">
       <div style="font-style: italic; color: #666; margin-bottom: 0px;">
         Demonstration
       </div>
@@ -188,7 +188,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 <figure style="text-align: center;">
   <img src="../assets/demos/ct_vis.png" width="500"/>
-  <figcaption style="font-style: italic; color: #666; margin-bottom: 0px;">CAM visualization</figcaption>
+  <figcaption style="width: 100%; text-align: center; font-style: italic; color: #666; margin-bottom: 0;">CAM visualization</figcaption>
 </figure>
 
 
@@ -196,7 +196,7 @@ My core research agenda centers on **human-centric artificial intelligence**, wi
 
 ## 📜 Publications
 
-+ **Accept:** `Liver International (Q1)`, `ROBIO 2025` `TMM (Q1)`, `ACM MM 2026 (CCFA)`, `Journal of Biomechanics (Q2)`🥰
++ **Accept:** `Liver International (Q1)`, `ROBIO 2025`, `TMM (Q1)`, `ACM MM 2026 (CCFA)`, `Journal of Biomechanics (Q2)`🥰
 + **Prepare to Submit:** `CVPR 2027 (CCFA)`
 
 
