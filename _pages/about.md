@@ -8,7 +8,7 @@ redirect_from:
 ---
  Hello👋, I'm Tengfei Li. I obtained the Master's degree in Medical Informatics from Sichuan University in 2026 and the Bachelor's degree in Internet of Things Engineering from Zhengzhou University in 2023. My research focuses on **Human-Centric AI**, specifically advancing Motion Understanding and Generation for digital human and game applications.
 
-My research intersects ***Machine Learning***, ***Computer Vision***, ***Multimodal***, ***Meta Human*** and ***AIGC***. I'm passionate about developing AI systems that bridge virtual and physical movement, with publications and projects addressing human pose analysis and synthesis.
+My research intersects ***3DV***, ***Multi-modal***, ***Meta Human*** and ***AIGC***. I'm passionate about developing AI systems that bridge virtual and physical movement, with publications and projects addressing human pose analysis and synthesis.
 
 For detailed credentials including publications, projects and demos, please visit my portfolio: [CV Page](https://ltf-coding.github.io/cv/). For convenience, I copy it below.
 
