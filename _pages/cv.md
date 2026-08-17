@@ -1,4 +1,11 @@
 ---
+layout: archive
+title: "CV Page"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 ## 🎯 Research Focus
 
